@@ -4,12 +4,14 @@
 ## Objetivo
 - Exibição de evento e informações
 - Captura de email
+- Layout Responsivo
 
 ## Tecnologias / Ferramentas
 - HTML
 - CSS
 - Mailchimp
+- Resposividade
 
 ### Imagem do projeto
 
-![screencapture-127-0-0-1-5500-index-html-2020-12-21-09_48_32](https://user-images.githubusercontent.com/50666531/102786506-625af300-437e-11eb-8e91-fea481a6c154.png)
+![screencapture-127-0-0-1-5500-index-html-2020-12-21-11_22_12](https://user-images.githubusercontent.com/50666531/102786878-f5942880-437e-11eb-9e97-a3380c7e2228.png)
